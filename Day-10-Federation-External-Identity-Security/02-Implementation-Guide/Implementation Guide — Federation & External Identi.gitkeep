@@ -1,0 +1,13 @@
+# Implementation Guide — Federation & External Identity Security
+
+## Objective
+
+Review and document federation and external identity governance visibility within the DR Taxi environment using Microsoft Entra ID.
+
+## Focus Areas
+
+- Federation governance
+- B2B collaboration visibility
+- External identity governance
+- Collaboration restrictions
+- External access planning
