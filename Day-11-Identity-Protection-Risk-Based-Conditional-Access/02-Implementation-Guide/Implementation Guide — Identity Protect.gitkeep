@@ -1,0 +1,13 @@
+# Implementation Guide — Identity Protection & Risk-Based Conditional Access
+
+## Objective
+
+Review and document identity protection visibility and adaptive Conditional Access governance within the DR Taxi environment using Microsoft Entra ID.
+
+## Focus Areas
+
+- Identity protection visibility
+- Risky sign-ins
+- User risk awareness
+- Adaptive Conditional Access
+- Risk governance

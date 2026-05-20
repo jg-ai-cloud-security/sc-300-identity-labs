@@ -1,0 +1,17 @@
+# Design Principles — Identity Protection & Risk-Based Conditional Access
+
+## Overview
+
+This implementation improves identity protection visibility and adaptive Conditional Access governance within the DR Taxi environment.
+
+## Principles Applied
+
+- Zero Trust identity protection
+- Risk-based authentication
+- Adaptive access governance
+- Least privilege access
+- Identity risk visibility
+
+## Outcome
+
+Improved identity protection awareness and stronger adaptive access governance visibility.
