@@ -1,0 +1,13 @@
+# Implementation Guide — Enterprise Application Access Governance
+
+## Objective
+
+Review and document enterprise application governance visibility and secure application access controls within the DR Taxi environment using Microsoft Entra ID.
+
+## Focus Areas
+
+- Enterprise applications
+- Application permissions
+- Consent governance
+- RBAC governance
+- Secure application access
