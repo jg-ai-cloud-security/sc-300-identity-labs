@@ -1,0 +1,22 @@
+# Access Reviews
+
+## Overview
+
+Access Reviews provide periodic validation of user permissions and group membership within Microsoft Entra ID.
+
+## Purpose
+
+Access Reviews help organisations validate permissions regularly and remove unnecessary access.
+
+## Security Benefits
+
+- Reduced orphaned permissions
+- Improved governance visibility
+- Improved identity lifecycle governance
+- Reduced insider threat exposure
+
+## Zero Trust Alignment
+
+- Continuous validation
+- Least privilege governance
+- Identity verification

@@ -1,0 +1,57 @@
+# Implementation Guide
+
+## Step 1 — Review Privileged Access Groups
+
+Navigate:
+Identity Governance
+↓
+Privileged Access Groups
+
+Purpose:
+Review privileged group governance visibility.
+
+---
+
+## Step 2 — Review Access Reviews
+
+Navigate:
+Identity Governance
+↓
+Access Reviews
+
+Purpose:
+Review periodic access validation controls.
+
+---
+
+## Step 3 — Review Administrative Units
+
+Navigate:
+Microsoft Entra ID
+↓
+Administrative Units
+
+Purpose:
+Review delegated administration governance.
+
+---
+
+## Step 4 — Review Entitlement Management
+
+Navigate:
+Identity Governance
+↓
+Entitlement Management
+
+Purpose:
+Review lifecycle governance and access package visibility.
+
+---
+
+## Step 5 — Review Governance Visibility
+
+Review:
+- Governance visibility
+- Access certification
+- Lifecycle governance
+- Administrative delegation

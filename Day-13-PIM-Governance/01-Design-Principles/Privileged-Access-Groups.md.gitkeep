@@ -1,0 +1,22 @@
+# Privileged Access Groups (PAG)
+
+## Overview
+
+Privileged Access Groups improve governance of administrative access by controlling privileged group membership using Microsoft Entra ID.
+
+## Purpose
+
+Privileged groups help reduce excessive administrative permissions and improve privileged access governance.
+
+## Security Benefits
+
+- Improved privileged access governance
+- Reduced excessive permissions
+- Improved least privilege access
+- Improved administrative accountability
+
+## Zero Trust Alignment
+
+- Verify explicitly
+- Least privilege access
+- Assume breach

@@ -1,0 +1,22 @@
+# Administrative Units
+
+## Overview
+
+Administrative Units provide delegated administration boundaries within Microsoft Entra ID.
+
+## Purpose
+
+Administrative Units improve operational governance and reduce administrative sprawl.
+
+## Security Benefits
+
+- Improved RBAC segmentation
+- Improved governance delegation
+- Reduced excessive administrative visibility
+- Improved operational control
+
+## Zero Trust Alignment
+
+- Segmented administration
+- Controlled governance boundaries
+- Least privilege administration
