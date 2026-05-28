@@ -1,0 +1,29 @@
+# Key Concepts — Access Reviews & Identity Governance
+
+## Identity Governance
+
+Identity Governance improves visibility into user access, lifecycle management, and secure identity controls within Microsoft Entra ID.
+
+## Access Reviews
+
+Access Reviews validate whether users still require access to applications, groups, and organisational resources.
+
+## Guest Access Governance
+
+Guest Access Governance improves visibility and control over external collaboration accounts and B2B identities.
+
+## Lifecycle Governance
+
+Lifecycle Governance manages user access throughout the identity lifecycle process.
+
+## Zero Trust Governance
+
+Zero Trust Governance assumes no identity or device should be trusted automatically.
+
+## Governance Monitoring
+
+Governance Monitoring improves visibility into identity governance activities, review workflows, and lifecycle governance controls.
+
+## Outcome
+
+The implementation improved identity governance awareness and strengthened lifecycle governance visibility within the DR Taxi environment.
