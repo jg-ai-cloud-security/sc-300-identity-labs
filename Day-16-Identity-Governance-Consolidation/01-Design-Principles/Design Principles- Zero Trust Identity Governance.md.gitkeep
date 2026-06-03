@@ -1,0 +1,21 @@
+# Design Principles
+
+## Zero Trust Identity Governance
+
+Verify every access request and trust no identity by default.
+
+## Least Privilege Access
+
+Grant only the minimum permissions required.
+
+## Lifecycle Automation
+
+Automate identity processes throughout the employee lifecycle.
+
+## Governance Visibility
+
+Maintain visibility into onboarding, role changes, and offboarding activities.
+
+## Continuous Improvement
+
+Review and improve lifecycle governance controls regularly.
