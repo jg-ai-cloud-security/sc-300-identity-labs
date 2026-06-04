@@ -1,0 +1,19 @@
+# Design Principles
+
+## Zero Trust Security
+Trust no user or device by default and continuously validate access.
+
+## Verify Explicitly
+Use identity, device, location, and risk signals before granting access.
+
+## Least Privilege Access
+Provide only the minimum permissions required.
+
+## Risk-Based Access Control
+Make access decisions based on risk levels and threat intelligence.
+
+## Continuous Access Evaluation
+Continuously monitor and reassess access permissions throughout user sessions.
+
+## Outcome
+Conditional Access strengthens Zero Trust identity security and secure resource access.
